@@ -1,0 +1,5 @@
+.vscode/*
+output/*
+*__pycache__*
+data/*
+debug.log

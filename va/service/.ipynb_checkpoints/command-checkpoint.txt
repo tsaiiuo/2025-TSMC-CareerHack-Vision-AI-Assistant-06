@@ -1,0 +1,2 @@
+gunicorn -c service/vaGunicornConfig.py service.vaApp:app
+pkill gunicorn

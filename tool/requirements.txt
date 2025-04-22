@@ -1,0 +1,6 @@
+transformers
+pillow
+torch
+matplotlib
+numpy
+pyarrow
